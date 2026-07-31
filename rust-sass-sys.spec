@@ -5,8 +5,8 @@
 %global crate sass-sys
 
 Name:           rust-%{crate}
-Version:        0.4.17
-Release:        2%{?dist}
+Version:        0.4.22
+Release:        1%{?dist}
 Summary:        Low level binding for the Sass library
 
 # Upstream license specification: MIT
